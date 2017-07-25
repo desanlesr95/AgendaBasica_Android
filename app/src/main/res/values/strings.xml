@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="goku">Son Goku</string>
+    <string name="roshi">Kame Sennin(Maestro Roshi)</string>
+    <string name="iron">Tony Stark</string>
+    <string name="hulk">Bruce Banner</string>
+    <string name="vegeta">Vegeta</string>
+</resources>
